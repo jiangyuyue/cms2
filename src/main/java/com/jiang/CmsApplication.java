@@ -11,7 +11,7 @@ public class CmsApplication {
     public static void main(String[] args) {
         System.out.println("ddddd");
         System.out.println("ccc");
-
+        System.out.println("ccc");
         SpringApplication.run(CmsApplication.class, args);
     }
 
