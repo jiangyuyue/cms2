@@ -9,6 +9,8 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 public class CmsApplication {
 
     public static void main(String[] args) {
+        System.out.println("ccc");
+
         SpringApplication.run(CmsApplication.class, args);
     }
 
