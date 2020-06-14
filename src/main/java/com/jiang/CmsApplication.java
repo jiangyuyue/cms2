@@ -12,6 +12,7 @@ public class CmsApplication {
         System.out.println("ddddd");
         System.out.println("ccc");
         System.out.println("ccc");
+        System.out.println("ccc");
         SpringApplication.run(CmsApplication.class, args);
     }
 
