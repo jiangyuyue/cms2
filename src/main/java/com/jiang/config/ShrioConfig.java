@@ -46,6 +46,7 @@ public class ShrioConfig {
         //oauth过滤
         Map<String, Filter> filters = new HashMap<>();
 
+        //dadad
         filters.put("oauth2", new OAuth2Filter());
         shiroFilterFactoryBean.setFilters(filters);
         // shiroFilter.setFilterChainDefinitionMap(filterMap);
