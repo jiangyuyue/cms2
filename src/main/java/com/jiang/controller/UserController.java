@@ -22,6 +22,7 @@ import java.util.List;
  * @author 蒋雨岳
  * @Date 2020/3/20 0020
  */
+@SuppressWarnings("ALL")
 @RestController
 @RequestMapping("/user")
 public class UserController {
